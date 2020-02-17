@@ -16,7 +16,10 @@ laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qu
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
-![](/images/portfolio/item-4.png)
+![](/images/Octo ML 1.jpg)![](/images/portfolio/item-4.png)
+
+    oeuoe
+    import json
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
